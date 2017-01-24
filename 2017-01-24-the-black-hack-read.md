@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Black Hack (Read)"
+description: "Reading notes for The Black Hack for 12x2017"
 date: 2017-01-24
 categories:
   - Games
