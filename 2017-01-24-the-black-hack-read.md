@@ -9,7 +9,7 @@ image: /images/tbh.jpg
 image-sm: /images/tbh.jpg
 ---
 
-> This post is part of [12x2017](/category/12x2017): read + play 12 new RPGs in 2017.
+> _This post is part of [12x2017](/category/12x2017): read + play 12 new RPGs in 2017._
 
 Turns out I set my self up for success to get started. _[The Black Hack](http://www.drivethrurpg.com/product/178359/The-Black-Hack?affiliate_id=470893)_ is only 20 pages, well laid-out, so it was an embarrassingly quick read for my first challenge.
 
