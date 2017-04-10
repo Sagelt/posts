@@ -6,7 +6,6 @@ categories:
   - Games
 image: /images/civ.jpg
 image-sm: /images/civ.jpg
-published: false
 description: Want to see the world through Trump's eyes? Play Civilization.
 ---
 
