@@ -4,6 +4,7 @@ title: The Principles of Moldvay D&D
 date: 2010-09-28
 categories:
 - Games
+- Principles of D&D
 tags:
 - Dungeon World
 - D&D
