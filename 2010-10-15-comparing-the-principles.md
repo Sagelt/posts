@@ -5,7 +5,7 @@ excerpt: I've tried to extract Apocalypse World-style Principles for three disti
   editions of D&D. How do they compare?
 date: 2010-10-15
 categories:
-- Princples
+- Principles
 - Games
 tags:
 - D&D
@@ -69,6 +69,7 @@ I think it'll surprise no one that 4E doesn't keep Moldvay's admonition to make 
 # 3E to 4E
 
 3rd Edition | 4th Edition
+--- | ---
 Provide a world, you create everything but the PCs | You and everyone else are responsible for the fun of the game together
 Determine a style, the way the game is played | Identify your players' motivations
 Adjudicate the rules, you are in charge | Build a party with the players, use it in the creation of the story and world
