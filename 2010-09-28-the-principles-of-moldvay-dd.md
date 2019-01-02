@@ -20,7 +20,7 @@ Apocalypse D&D started out as very much an Old School Revival game, in the style
 1. Give the players a reason for adventuring, give yourself a reason for placing monsters (B51.A)
 2. Map the dungeon, leave blanks (B51.B, B52.D)
 3. When you don't know what to place, use a random table (B52.E)
-4. Describe to the players&Acirc;&nbsp;what their characters see, hear and do. (B59)
+4. Describe to the players what their characters see, hear and do. (B59)
 5. Be flexible, don't panic (B60)
 6. Be fair, the game is not a contest between you and the players (B60)
 7. Make up (rules) details as needed to keep the game moving (B60)
