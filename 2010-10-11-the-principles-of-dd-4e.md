@@ -4,7 +4,7 @@ title: The Principles of D&D 4E
 date: 2010-10-11
 categories:
 - Games
-- Principles of D&D
+- Principles
 tags:
 - D&D
 - Principles
