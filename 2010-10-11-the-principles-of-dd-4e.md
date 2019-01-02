@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Principles of D&D 4E0
+title: The Principles of D&D 4E
 date: 2010-10-11
 categories:
 - Games
