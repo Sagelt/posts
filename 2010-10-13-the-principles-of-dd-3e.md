@@ -4,7 +4,7 @@ title: The Principles of D&D 3E
 date: 2010-10-13
 categories:
 - Games
-- Principles of D&D
+- Principles
 tags:
 - D&D
 - Principles
