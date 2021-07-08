@@ -32,6 +32,7 @@ A quick survey of the campaigns I would cite as my best extended gaming experien
 * The One Ring (1E)
 * Call of Cthulhu (d20)
 
+
 Only one of those is a game I'd wholeheartedly recommend (Burning Wheel). Another I would recommend with some caveats (The One Ring). The others aren't games I'd actually recommend—I don't dislike them, but there are other systems I'd recommend to hit a similar feel. But these are the experiences I'd hold up as the best gaming of my life.
 
 # Remember To Like And Subscribe
@@ -46,6 +47,7 @@ With this exact set of folks, in this exact time, The One Ring has been absolute
 * A move to online gaming for everyone making including remote folks painless
 * The paring of a setting that is basically [hopepunk](https://www.vox.com/2018/12/27/18137571/what-is-hopepunk-noblebright-grimdark) with a year that desperately needed hope.
 * A system with enough fiddly bits to keep everyone reading more books but simple enough to be played easily online.
+
 
 There's a bit here that's central to how we review and think about media, including games. I can only provide an absolutely accurate review of my _experience_ of playing The One Ring, and it is 5 stars. But that review is not of the game you will play, or the other time I played The One Ring. Especially in a culture driven by an attention economy there's a tendency to state reviews of experiences as reviews of the thing that was experienced and to use that to drive engagement. If I wanted people to read this post I would have tried to argue that, since I had the time of my life playing The One Ring, you will to. That's an easier, more grabby article than this meandering journey through an experience. "The One Ring Will Bring Tolkien To Life At Your Table."
 
