@@ -45,7 +45,7 @@ With this exact set of folks, in this exact time, The One Ring has been absolute
 
 * The 10th anniversary of the films leading to a steady stream of [great](https://www.polygon.com/lord-of-the-rings/22451202/lord-of-the-rings-movie-trivia) [articles](https://www.polygon.com/lord-of-the-rings/22353128/denethor-lotr-movies-story-doomscrolling) [to](https://www.polygon.com/lord-of-the-rings/2021/2/10/22272503/orcs-lotr-movies-ranked) [pass](https://www.polygon.com/lord-of-the-rings/2021/1/20/22239302/who-is-tom-bombadil-poem-hobbit-lotr-books-movies) [around](https://www.polygon.com/lord-of-the-rings/2021/1/6/22205252/lord-of-the-rings-movies-tolkien-meaning-historical-context) [our](https://www.polygon.com/lord-of-the-rings/2021/1/13/22227591/aita-bilbo-baggins-disappears) [gaming](https://www.polygon.com/lord-of-the-rings/22547637/boromir-death-scene-lord-of-the-rings-masculinity) [group](https://www.polygon.com/lord-of-the-rings/22565789/lotr-legolas-weird-faces-expression-orlando-bloom-elf).
 * A move to online gaming for everyone making including remote folks painless
-* The paring of a setting that is basically [hopepunk](https://www.vox.com/2018/12/27/18137571/what-is-hopepunk-noblebright-grimdark) with a year that desperately needed hope.
+* The pairing of a setting that is basically [hopepunk](https://www.vox.com/2018/12/27/18137571/what-is-hopepunk-noblebright-grimdark) with a year that desperately needed hope.
 * A system with enough fiddly bits to keep everyone reading more books but simple enough to be played easily online.
 
 
