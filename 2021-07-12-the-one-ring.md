@@ -61,7 +61,7 @@ What I mean: if you want Tolkien-inspired fantasy Burning Wheel is wholly better
 
 Tolkien himself thought of Middle Earth more as a place he was recording than a story he was inventing, and The One Ring feels indebted to this:
 
-> "An absorbing, though continually interrupted labour (especially since, even apart from the necessities of life, the mind would wing to the other pole and spend itself on the linguistics): yet always I had the sense of recording what was already ‘there’, somewhere: not of ‘inventing’."" - J. R. R. Tolkien, letter included as forward to The Silmarillion
+> "An absorbing, though continually interrupted labour (especially since, even apart from the necessities of life, the mind would wing to the other pole and spend itself on the linguistics): yet always I had the sense of recording what was already ‘there’, somewhere: not of ‘inventing’." - J. R. R. Tolkien, letter included as forward to The Silmarillion
 
 TOR is a game that so badly wants you to know the history of Middle Earth, not just of The War of The Ring. It's a game that wants you to be excited about visiting Lothlorien as a rarefied thing despite having seen in a hundred times. It's a game that wants you to think of Thingol when a dwarf and an elf bicker.
 
