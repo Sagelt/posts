@@ -7,7 +7,7 @@ categories:
   - The One Ring
 image: /images/hobbit.jpeg
 image-sm: /images/hobbit.jpeg
-description: \"Now of old the name of that forest was Greenwood the Great\"
+description: '"Now of old the name of that forest was Greenwood the Great"'
 ---
 
 This isn't a review. It would be a pretty pointless review to do, anyway, as the game in question is The One Ring. TOR released in 2011 (when I rushed into the GenCon exhibitor hall to grab a copy). The second edition [recently Kickstarted for almost $2 million (USD)](https://www.kickstarter.com/projects/1192053011/the-one-ring-roleplaying-game-second-edition/description). If you are somehow in the market for a review of a 10 year old RPG that is about to be upgraded with a new edition... I guess you'll still enjoy this post anyway.
