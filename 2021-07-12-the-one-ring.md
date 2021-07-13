@@ -63,7 +63,7 @@ Tolkien himself thought of Middle Earth more as a place he was recording than a 
 
 > "An absorbing, though continually interrupted labour (especially since, even apart from the necessities of life, the mind would wing to the other pole and spend itself on the linguistics): yet always I had the sense of recording what was already ‘there’, somewhere: not of ‘inventing’." - J. R. R. Tolkien, letter included as forward to The Silmarillion
 
-TOR is a game that so badly wants you to know the history of Middle Earth, not just of The War of The Ring. It's a game that wants you to be excited about visiting Lothlorien as a rarefied thing despite having seen in a hundred times. It's a game that wants you to think of Thingol when a dwarf and an elf bicker.
+TOR is a game that so badly wants you to know the history of Middle Earth, not just of The War of The Ring. It's a game that wants you to be excited about visiting Lothlorien as a rarefied thing despite having seen it a hundred times in the movies. It's a game that wants you to think of Thingol when a dwarf and an elf bicker.
 
 And in that it makes choices that, if you are interested in anything but obsessively visiting places and people from Tolkien's imagination, are substantially less interesting.
 
