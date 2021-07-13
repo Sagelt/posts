@@ -49,7 +49,7 @@ With this exact set of folks, in this exact time, The One Ring has been absolute
 * A system with enough fiddly bits to keep everyone reading more books but simple enough to be played easily online.
 
 
-There's a bit here that's central to how we review and think about media, including games. I can only provide an absolutely accurate review of my _experience_ of playing The One Ring, and it is 5 stars. But that review is not of the game you will play, or the other time I played The One Ring. Especially in a culture driven by an attention economy there's a tendency to state reviews of experiences as reviews of the thing that was experienced and to use that to drive engagement. If I wanted people to read this post I would have tried to argue that, since I had the time of my life playing The One Ring, you will to. That's an easier, more grabby article than this meandering journey through an experience. "The One Ring Will Bring Tolkien To Life At Your Table."
+There's a bit here that's central to how we review and think about media, including games. I can only provide an absolutely accurate review of my _experience_ of playing The One Ring, and it is 5 stars. But that review is not of the game you will play, or the other time I played The One Ring. Especially in a culture driven by an attention economy there's a tendency to state reviews of experiences as reviews of the thing that was experienced and to use that to drive engagement. If I wanted people to read this post I would have tried to argue that, since I had the time of my life playing The One Ring, you will too. That's an easier, more grabby article than this meandering journey through an experience. "The One Ring Will Bring Tolkien To Life At Your Table."
 
 But like Tolkien's works it feels more honest to express genuine personal sentiment instead of a global truth, and maybe through that to approach some truths. In the spirit of a strange old professor with a thing for elves and umlauts this is an unapologetically personal and meandering post.
 
@@ -67,7 +67,7 @@ TOR is a game that so badly wants you to know the history of Middle Earth, not j
 
 And in that it makes choices that, if you are interested in anything but obsessively visiting places and people from Tolkien's imagination, are substantially less interesting.
 
-Take, for example, the journey rules. As presented (and as I first played them) they were dry and laborious. The players chart their path, then the GM determines the number of rolls they will have to make to travel that based on the terrain, and the amount of corruption they will face based on the shadow around them. Then the players make their rolls and if they pass... they journey just happens.
+Take, for example, the journey rules. As presented (and as I first played them) they were dry and laborious. The players chart their path, then the GM determines the number of rolls they will have to make to travel that based on the terrain, and the amount of corruption they will face based on the shadow around them. Then the players make their rolls and if they pass... the journey just happens.
 
 This in itself isn't bad. It's fine for some parts of a game to pass without complication. The problem is in the amount of effort to determine if a complication occurs. There can easily be a double digit number of dice rolls per player and double digit minutes checking off boxes and relaying results for nothing to happen.
 
