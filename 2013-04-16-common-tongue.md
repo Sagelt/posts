@@ -9,13 +9,13 @@ image-sm: /images/babel.jpg
 ---
 The direction of D&D Next is to [expand 'story' not 'mechanics'](http://www.wizards.com/DnD/Article.aspx?x=dnd/4ll/20130304):
 
-> After the core rules for the game are done, we really want to stop adding so much stuff to the mechanics of the game and shift our emphasis to story.[/box]
+> After the core rules for the game are done, we really want to stop adding so much stuff to the mechanics of the game and shift our emphasis to story.
 
 I knew when I read this that I was going to have a hell of a time writing this response. The false dichotomy there glares at me: why can't mechanics and rules be one-in-the-same, or at least complementary?
 
 That's not the real core of Mike's post though. The core here is D&D as a common language:
 
-> D&D is a shared language. The rules serve to make it easier to talk about the game and make stuff happen. They take abstract concepts and give them clear meaning. When we say "5th-level wizard," we know what you can do and how you do it. We know that because we play D&D. Someone who never played the game would be utterly lost.[/box]
+> D&D is a shared language. The rules serve to make it easier to talk about the game and make stuff happen. They take abstract concepts and give them clear meaning. When we say "5th-level wizard," we know what you can do and how you do it. We know that because we play D&D. Someone who never played the game would be utterly lost.
 
 I've got a shameful admission to make: when you say "5th-level wizard" I have no clue what you mean.
 
