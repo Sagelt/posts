@@ -4,8 +4,8 @@ title: Let Me Tell You About My Character
 date: 2021-08-16
 categories:
   - Games
-image: /images/wonka.jpeg
-image-sm: /images/wonka.jpeg
+image: /images/wonka.jpg
+image-sm: /images/wonka.jpg
 description: I doubt anyone will read past the title.
 ---
 
