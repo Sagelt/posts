@@ -74,7 +74,7 @@ He did kill one of the great spiders of Mirkwood, though.
 
 All of these characters are clearly me, but also clearly not me. I created a thing, but it took on a life of its own.
 
-This may be one of the most compelling parts of RPGs. No matter if it's through unexpected dice rolls or character beliefs or simply endurance cand change over time RPG characters become in some sense beyond their creators while being entirely created.
+This may be one of the most compelling parts of RPGs. No matter if it's through unexpected dice rolls or character beliefs or simply endurance and change over time RPG characters become in some sense beyond their creators while being entirely created.
 
 There's a wonderful feeling there, a feeling of an idea that has taken on its own life. [Tolkien seems to have felt that way about Middle Earth:](https://www.biographyonline.net/writers/quotes/j-r-r-tolkien.html#:~:text=An%20absorbing%2C%20though%20continually%20interrupted,not%20of%20'inventing'.%E2%80%9D)
 
