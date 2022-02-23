@@ -58,7 +58,7 @@ Some examples of things I track:
 
 * Dishes (every day, available in the evening after dinner, due not long after)
 * Take out the garbage can (available Wednesday afternoon, due Wednesday evening, every week)
-* Reply to email from <x> (no recurrence)
+* Reply to email from \<x\> (no recurrence)
 
 OmniFocus is about building habits and making sure the things that make me feel good get done. My notebook is for focus.
 
@@ -82,7 +82,7 @@ I started with the idea of a [Bullet Journal](https://bulletjournal.com/) and fo
 
 So, starting on the first page of my notebook on the first day of the month, I write the date (in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) YYYY-MM-DD of course, like everyone should) and the three letter abbreviation for the day of the week on the first line. Then I note things until the day ends or I reach the end of the page.
 
-The things I note are _what happened_ and _what I thought about <what happened/anything on my mind>._
+The things I note are _what happened_ and _what I thought about \<what happened/anything on my mind\>._
 
 Things that happen get an open dot to start the line (like this: ◦). Thoughts get a dash (so: –). This is basically the good parts of Bullet Journaling, IMO. You can do the whole Bullet Journal thing, sure, or you can just do these two things and never touch the rest of it and get most of the value.
 
