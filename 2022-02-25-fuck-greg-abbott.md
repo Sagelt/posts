@@ -32,7 +32,7 @@ Join me in putting your money behind supporting human beings living their lives 
 - Catch The Devil
 	- A game of fear in the late Anthropocene (a.k.a. the world we live in).
 - Beyond
-	- **For the adventurous only!** This is an early playtest version. You'll get an early look at something completely playable, but definitely not in a final form.
+	- *For the adventurous only!* This is an early playtest version. You'll get an early look at something completely playable, but definitely not in a final form.
 	- My personal evolution of Dungeon World into something a little stranger and weirder, based on years of feedback and pondering. 
 	- If you choose this option you can also opt to be added to an email list for any future updates. I fully intend to round this out into a complete game, but nothing is guaranteed. The mailing list will only be used to send updated versions, nothing else.
 
