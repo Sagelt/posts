@@ -40,7 +40,8 @@ Join me in putting your money behind supporting human beings living their lives 
 1. Donate
 2. Write an email to sagelt@gmail.com. Put "Trans Rights Are Human Rights" as the subject.
 3. Attach your receipt from your donation.
-4. Allow a few days for processing. I'll be handling these all manually. Be patient!
+4. Mention what game you'd like in the body of the email.
+5. Allow a few days for processing. I'll be handling these all manually. Be patient!
 
 # Notes
 - Donation amount is up to you. My guideline would be "significant" but I don't know you, I don't know your situation, just do it. Everything helps.
