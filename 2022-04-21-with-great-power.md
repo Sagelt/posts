@@ -38,11 +38,11 @@ May's delivery of the less-famous original line defines the overall theme and dr
 
 Peter chooses to not send a bunch of people who are causing him (and others) harm back to their lives because they would all die there. Which raises the question: does Peter know what happens to all the other villains in Marvel movies?
 
-Malekith? Dead. Thanos? Dead. Helmut Zemo? Dead. Ultron? Dead. Claw? Dead. Red Skull? Dead. Killmonger[1]? Dead.
+Malekith? Dead. Thanos? Dead. Helmut Zemo? Dead. Ultron? Dead. Claw? Dead. Red Skull? Dead. Killmonger[^1]? Dead.
 
 I could go on. And sure, a lot of these are "comics-dead" not "dead-dead," but a lot of them are also directly killed or allowed to die by the heroes.
 
-There are a few exceptions. The Vulture (from the first MCU Spider-Man movie) lives. Loki did/does[2] too. But for the most part MCU villains are one-movie deals and the cleanest way to write them out is to give them a (as the scripts tend to suggest) deserved death.
+There are a few exceptions. The Vulture (from the first MCU Spider-Man movie) lives. Loki did/does[^2] too. But for the most part MCU villains are one-movie deals and the cleanest way to write them out is to give them a (as the scripts tend to suggest) deserved death.
 
 This probably makes sense for movies. If you need to draw audiences in for two hours a few times a year you need something fresh to throw at them (unless they really clamored for more—looking at you Tom Hiddelston).
 
