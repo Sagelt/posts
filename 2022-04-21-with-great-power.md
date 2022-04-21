@@ -12,7 +12,7 @@ description: "They finally got it right!"
 
 Let me start with an extremely pedantic point:
 
-It wasn't "with great power comes great responsibility," it was "with great power _must also_ come great responsibility."
+It wasn't "with great power comes great responsibility," it was "with great power _there must also_ come great responsibility."
 
 ![Amazing Fantasy #15 by Stan Lee and Steve Ditko](/images/great_power.jpeg)
 
@@ -20,7 +20,7 @@ This is mostly just nerdy trivia, but _Spider-Man: No Way Home_ got it right and
 
 From here on the spoilers are going to get plenty deep for _Spider-Man: No Way Home._ Stop now if that's not your thing.
 
-In _No Way Home_ as May dies she tells Peter the original wording: "with great power _must also_ come great responsibility." There's a couple of interesting aspects to this:
+In _No Way Home_ as May dies she tells Peter the original wording: "with great power _there must also_ come great responsibility." There's a couple of interesting aspects to this:
 
 ## 1: How Did Peter Become Spider-Man?
 
@@ -62,7 +62,7 @@ And that resonates with the original wording of "with great power…" to such a 
 
 "With great power comes great responsibility" is a statement of fact. Those that have great power get responsibility (somehow?) automatically. It suggests an accountability somewhere beyond this world.
 
-"With great power *must also come* great responsibility" is an imperative. It says that when someone gets great power they need to be held responsible for it. It still doesn't say who should do that, but I'd say that means it falls to the reader.
+"With great power *there must also come* great responsibility" is an imperative. It says that when someone gets great power they need to be held responsible for it. It still doesn't say who should do that, but I'd say that means it falls to the reader.
 
 I have no idea if Lee or Ditko were making a choice with that wording or if this is just my reading of it, but to me the differences between those framings also describe a gap in a lot of modern life.
 
