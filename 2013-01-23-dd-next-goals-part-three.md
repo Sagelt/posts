@@ -19,10 +19,10 @@ This is likely to be a problem with any approach that puts basic and standard co
 
 Getting on to what standard D&D Next is:
 
-*Complexity and options
-*Customization over archetypes
-*Specific rules
-*Less need for rulings
+* Complexity and options
+* Customization over archetypes
+* Specific rules
+* Less need for rulings
 
 If you think that sounds a lot like 3E, you're not alone.
 

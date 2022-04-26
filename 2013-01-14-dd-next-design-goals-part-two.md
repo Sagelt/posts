@@ -3,7 +3,7 @@ layout: post
 title: D&D Next Goals, Part Two
 date: '2013-01-14 12:15:14 -0800'
 categories:
-- Indies &amp; More
+- Indies & More
 - Games
 - Thinking
 tags:
