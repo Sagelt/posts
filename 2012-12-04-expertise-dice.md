@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Expertise Dice
-date: '2012-12-04 12:51:53 -0800s
-excerpt: The holidays have me playing catchup with Legends and Lore posts again. Oh well. Let's take a look at expertise dice.
+date: '2012-12-04 12:51:53 -0800s'
+description: The holidays have me playing catchup with Legends and Lore posts again. Oh well. Let's take a look at expertise dice.
 categories:
 - Indies & More
 tags:
