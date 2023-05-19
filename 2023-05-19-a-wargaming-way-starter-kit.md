@@ -24,7 +24,7 @@ With that out of the way, I figured I needed a pitch to explain the format of th
 
 # The Pitch
 
-> A small team of adventurers faces a great challenge in a magical underworld. You'll play members of this team of adventurers attempting to use every tool as your disposal to maximize the XP you can get from various dangerous locations, most of them underground. XP is awarded for one thing, and one thing only: valuable treasures recovered.
+> A small team of adventurers faces a great challenge in a magical underworld. You'll play members of this team of adventurers attempting to use every tool at your disposal to maximize the XP you can get from various dangerous locations, most of them underground. XP is awarded for one thing, and one thing only: valuable treasures recovered.
 > 
 > To earn XP you'll need to learn the imagined world and develop strategies for facing unknown challenges. You'll need to explore carefully and with a purpose. And you'll need to decide when a task is too dangerous and retreat. After all, dead characters gain no XP.
 > 
@@ -59,7 +59,7 @@ I'll probably be making a few changes to adapt.
 
 - Magic as-written. While this may be a power increase overall this isn't a game of balance, the players will naturally find the point of challenge by pushing greater challenges if more magic proves to be more powerful. Plus more chances for magic users to do things and more uncertainty is probably a win.
 - Healing is only via full days of rest, effectively impossible in a dungeon. A full day's rest recovers HP equal to one roll of the character's HD.
-- XP is awarded 1-to-1 for gold coin (or equivalent) retrieved. Monsters defeated are worth 6 * (HD * 1.5) XP. Each level requires reaching 2000 ^ (level-1) XP.
+- XP is awarded 1-to-1 for gold coin (or equivalent) retrieved. Monsters defeated are worth 6 * (HD * 1.5) XP. Each level requires reaching 1000 * (2^(level-1)) XP.
 
 ## Alternative Rulesets Considered
 
