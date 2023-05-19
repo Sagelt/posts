@@ -96,9 +96,11 @@ _[Deep Carbon Observatory](https://www.drivethrurpg.com/product/312481/Deep-Carb
 With my starter kit in place we're going to give the wargaming way a try this Monday or the next. We'll see how it goes. I may have a completely different starter kit recommendation soon enough.
 
 ---
+
 - Eero's "[mythos investigation](https://www.arkenstonepublishing.net/isabout/2023/01/15/nod-135-mythos-investigation/)" concept unstuck [Catch the Devil](https://sagelt.itch.io/catch-the-devil) in my head. I've got several notes on solid in-place updates, plus a revised version of the long-removed character change system in process for being added to the new layout I've been working on.
 - Re-reading Morrison's JLA—absolutely one of my favorite comics —and Kyle Rayner as Green Lantern has been a stand out. I've liked him as a character a lot more than I remember. Part of that is probably the investment the series has in his story—the comment that he'll not just live up to the Lantern legacy but surpass it, the wink from the One Million future Superman—but it's probably also that the idea of "person with ring that makes anything they think of using their mental energy" fits with an artist way better than it does a space cop. Space Cop Green Lantern leans into every regressive trope in superhero comics, and the Kyle Rayner era was the time they just cut that bit off and gave us a pretty fantastic character (the fridging aside).
 - In addition to kicking off this game we're fitting in a session of our Ruins of the Lost Realm campaign of The One Ring 2E. Which gave me reason to catch up on the last two sessions: [I Ain't Eating No Ghost](https://ruins-of-the-lost-realm.netlify.app/2023-04-15-i-ain-t-eating-no-ghost) and [A Bridge Into Troubled Waters](https://ruins-of-the-lost-realm.netlify.app/2023-04-22-a-bridge-into-troubled-waters).
+
 ---
 
 [^1]: It's actually been on my wishlist two ways, since this game is also a chance to play with some friends I haven't seen in too long. Everything's coming up Sage.
