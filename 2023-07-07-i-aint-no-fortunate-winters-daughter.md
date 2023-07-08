@@ -11,7 +11,7 @@ description: Winter's Daughter actual play. Some Magic decks. Miscellania.
 
 After thinking a bit too much about the system, adventure, and pitch my Muster-inspired campaign finally hit the table. There was an immediate twist, though, as one of the players was familiar enough with _The Hole In The Oak_ for me to pivot to _Winter's Daughter_ instead. We've played a handful of sessions with a rotating cast of players, mostly 2 hour delves, and completed _Winter's Daughter._ Next up will be _The Incandescent Grottoes,_ but here's what we've learned so far:
 
-## The Playstyle
+### The Playstyle
 
 Yes. I'm sure I've drifted some from Eero's _Muster_ approach, but it's been very enjoyable. I'd only played in a game close to this a couple of times, and never successfully run it. Thanks in large part to _Muster_ this has been a roaring success.
 
@@ -100,4 +100,4 @@ Deck
 ---
 
 - Looking back over my reading for June: 30 comics, 3 RPG books, one non-fiction book. RPG reading was probably the most interesting, with DIE and Errant each deserving a longer post to unpack. Fiction reading was all _Perhaps the Stars_ which was long but extremely enjoyable. I finished it up just into July, and that also probably deserves its own post.
-- A while ago I mentioned that [John Battle had stopped blogging](https://svirfnebl.in/2023/03/24/the-history-of-illegal-things/). Fortunately [he's back](https://nerves.games/2023/06/21/a-game-can-be-more-than-its-rules-part-1/). I haven't caught up, but I'm glad to see him posting again. Not someone I always agree with, but one of the more interesting posters on gaming.
+- A while ago I mentioned that [John Snow had stopped blogging](https://svirfnebl.in/2023/03/24/the-history-of-illegal-things/). Fortunately [she's back](https://nerves.games/2023/06/21/a-game-can-be-more-than-its-rules-part-1/). I haven't caught up, but I'm glad to see her posting again. Not someone I always agree with, but one of the more interesting posters on gaming.
